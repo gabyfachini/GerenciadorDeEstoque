@@ -1,0 +1,15 @@
+
+*.json
+*.dll
+*.exe
+*.pdb
+Gerenciado de Estoque/Gerenciado de Estoque.csproj
+Gerenciado de Estoque/obj/Debug/net8.0/.NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+Gerenciado de Estoque/obj/Debug/net8.0/Gerenciado de Estoque.AssemblyInfo.cs
+*.cache
+Gerenciado de Estoque/obj/Debug/net8.0/Gerenciado de Estoque.csproj.BuildWithSkipAnalyzers
+Gerenciado de Estoque/obj/Debug/net8.0/Gerenciado de Estoque.csproj.FileListAbsolute.txt
+Gerenciado de Estoque/obj/Debug/net8.0/Gerenciado de Estoque.GeneratedMSBuildEditorConfig.editorconfig
+Gerenciado de Estoque/obj/Gerenciado de Estoque.csproj.nuget.g.props
+Gerenciado de Estoque/obj/Gerenciado de Estoque.csproj.nuget.g.targets
+Gerenciado de Estoque/obj/Debug/net8.0/Gerenciado de Estoque.GlobalUsings.g.cs
